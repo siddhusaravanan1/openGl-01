@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\siddh\Documents\Opengl-01\opengl-01\opengl-01\src\main.cpp(107,28): warning C4101: 'texture': unreferenced local variable
+  opengl-01.vcxproj -> C:\Users\siddh\Documents\Opengl-01\opengl-01\Debug\opengl-01.exe

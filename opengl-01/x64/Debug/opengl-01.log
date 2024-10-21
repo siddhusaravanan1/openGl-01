@@ -1,0 +1,3 @@
+﻿  main.cpp
+main.obj : error LNK2019: unresolved external symbol __imp_glClear referenced in function main
+C:\Users\siddh\Documents\Opengl-01\opengl-01\x64\Debug\opengl-01.exe : fatal error LNK1120: 1 unresolved externals
